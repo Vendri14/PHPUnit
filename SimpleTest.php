@@ -15,7 +15,7 @@
             //Masukkan kata kata 
             $katatesting = "Sevri Vendrian Achmad Jordan"; // 4 kata juga
 
-            //Menghitung kata dari variable katatesting
+            //Menghitung kata dari variable katatestingg
             $WordCount = $WC -> countWords($katatesting);
 
             // jika kata == 4, Berarti Benar
